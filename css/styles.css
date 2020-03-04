@@ -170,8 +170,11 @@ hr {
 .nspf {
     filter: invert(100%);
     width: 50px;
+    height: auto;
 }
 
 .ipssa {
     width: 50px;
+    height: auto;
 }
+
