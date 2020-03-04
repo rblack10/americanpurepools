@@ -160,6 +160,7 @@ hr {
     display: flex;
     justify-content: center;
     padding-bottom: 15px;
+    flex-wrap: wrap;
 }
 
 .logos p {
