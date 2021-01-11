@@ -160,13 +160,13 @@ hr {
 .logos {
 	display: flex;
 	justify-content: center;
-	padding-bottom: 15px;
+	padding: 10px;
 	flex: 1;
 	flex-wrap: wrap;
 }
 
-.logos p {
-	`: 10px;
+.logos div {
+	padding: 5px;
 }
 
 .nspf {
