@@ -817,8 +817,9 @@ p {
   color: #E84E4E;
 }
 
-.line-item {
+.line-item:last-of-type {
   /* padding-right: 0; */
+  padding-bottom: 80px;
 }
 
 
